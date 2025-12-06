@@ -1,1 +1,1 @@
-# Day37-Average-Salary-Excluding-the-minimum-and-maximum
+# Day36-Average-Salary-Excluding-the-minimum-and-maximum
